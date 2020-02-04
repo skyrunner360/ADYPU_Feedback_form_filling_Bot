@@ -1,9 +1,9 @@
 # ADYPU_Feedback_form_filling_Bot
-Bot to fill out ADYPU Feedback Forms
+##Bot to fill out ADYPU Feedback Forms
 
 This bot is developed in Python using selenium.
 
-Open the secrets.py file to edit and enter your details there.
+_Open the secrets.py file to edit and enter your details there._
 
 Prerequisites :-
 1) Python
@@ -14,7 +14,7 @@ Instructions :-
 
 Install Python from here - https://www.python.org/downloads/
 
-*Additionally you can also install Pycharm from here - https://www.jetbrains.com/pycharm/download/
+_*Additionally you can also install Pycharm from here - https://www.jetbrains.com/pycharm/download/ _
 
 Now install Chrome Driver from here - https://chromedriver.chromium.org/
 
