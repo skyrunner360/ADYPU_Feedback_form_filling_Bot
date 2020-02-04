@@ -18,9 +18,11 @@ Install Python from here - https://www.python.org/downloads/
 
 Now install Chrome Driver from here - https://chromedriver.chromium.org/
 
-Now Install Selenium Package by using - "pip install selenium" command.
 
 and add it to your path (see Documentation)
+
+
+Now Install Selenium Package by using - "pip install selenium" command.
 
 Now edit the secrets.py file accordingly and then run fbot.py file.
 
