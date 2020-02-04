@@ -12,11 +12,11 @@ Prerequisites :-
 
 Instructions :-
 
-Install Python from here - [here](https://www.python.org/downloads/) 
+Install Python from [here](https://www.python.org/downloads/) 
 
-__*Additionally you can also install Pycharm from here - https://www.jetbrains.com/pycharm/download/
+__*Additionally you can also install Pycharm from [here](https://www.jetbrains.com/pycharm/download/)
 
-Now install Chrome Driver from here - https://chromedriver.chromium.org/
+Now install Chrome Driver from [here](https://chromedriver.chromium.org/)
 
 
 and add it to your path (see Documentation)
