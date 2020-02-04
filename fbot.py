@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-from secrets import link,email,name,urn,cmnt,passwd
+from secrets import *
 
 class fbot():
     def __init__(self):
@@ -74,7 +74,7 @@ class fbot():
                 a+=1
              except Exception:
                  cmnt_box = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[2]/div[27]/div/div[2]/div/div[1]/div/div[1]/input')
-                 cmnt_box.send_keys(cmnt)
+                 cmnt_box.send_keys(cmnt1)
                  break
 
         next_btn3 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[3]/div[1]/div/div')
@@ -95,7 +95,7 @@ class fbot():
                 b+=1
             except Exception:
                 cmnt_box2 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[2]/div[23]/div/div[2]/div/div[1]/div/div[1]/input')
-                cmnt_box2.send_keys(cmnt)
+                cmnt_box2.send_keys(cmnt2)
                 break
         next_btn4 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[3]/div[1]/div/div[2]')
         next_btn4.click()
@@ -116,7 +116,7 @@ class fbot():
                 c+=1
             except Exception:
                 cmnt_box3 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[2]/div[23]/div/div[2]/div/div[1]/div/div[1]/input')
-                cmnt_box3.send_keys(cmnt)
+                cmnt_box3.send_keys(cmnt3)
                 break
         next_btn4 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[3]/div[1]/div/div[2]')
         next_btn4.click()
@@ -142,7 +142,7 @@ class fbot():
             except Exception:
                 cmnt_box3 = self.driver.find_element_by_xpath(
                     '//*[@id="mG61Hd"]/div/div/div[2]/div[23]/div/div[2]/div/div[1]/div/div[1]/input')
-                cmnt_box3.send_keys(cmnt)
+                cmnt_box3.send_keys(cmnt4)
                 break
         next_btn4 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[3]/div[1]/div/div[2]')
         next_btn4.click()
@@ -168,7 +168,7 @@ class fbot():
             except Exception:
                 cmnt_box3 = self.driver.find_element_by_xpath(
                     '//*[@id="mG61Hd"]/div/div/div[2]/div[23]/div/div[2]/div/div[1]/div/div[1]/input')
-                cmnt_box3.send_keys(cmnt)
+                cmnt_box3.send_keys(cmnt5)
                 break
         next_btn4 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[3]/div[1]/div/div[2]')
         next_btn4.click()
@@ -194,7 +194,7 @@ class fbot():
             except Exception:
                 cmnt_box3 = self.driver.find_element_by_xpath(
                     '//*[@id="mG61Hd"]/div/div/div[2]/div[23]/div/div[2]/div/div[1]/div/div[1]/input')
-                cmnt_box3.send_keys(cmnt)
+                cmnt_box3.send_keys(cmnt6)
                 break
         next_btn4 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[3]/div[1]/div/div[2]')
         next_btn4.click()
@@ -220,7 +220,7 @@ class fbot():
             except Exception:
                 cmnt_box3 = self.driver.find_element_by_xpath(
                     '//*[@id="mG61Hd"]/div/div/div[2]/div[23]/div/div[2]/div/div[1]/div/div[1]/input')
-                cmnt_box3.send_keys(cmnt)
+                cmnt_box3.send_keys(cmnt7)
                 break
         next_btn4 = self.driver.find_element_by_xpath('//*[@id="mG61Hd"]/div/div/div[3]/div[1]/div/div[2]')
         next_btn4.click()

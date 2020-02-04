@@ -3,5 +3,10 @@ email = '' #Enter Your ADYPU email id Here
 passwd = '' #Enter Your ADYPU email id Password Here
 name='' #Enter Your Full Name Here
 urn='' #Enter Your URN Here
-cmnt='' #Enter comment to be given on every page
-        #NOTE - You cannot change the comment individually
+cmnt1='' #Enter comment for page 1
+cmnt2='' #Enter comment for page 2
+cmnt3='' #Enter comment for page 3
+cmnt4='' #Enter comment for page 4
+cmnt5='' #Enter comment for page 5
+cmnt6='' #Enter comment for page 6
+cmnt7='' #Enter comment for page 7
