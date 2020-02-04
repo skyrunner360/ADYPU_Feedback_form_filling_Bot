@@ -16,9 +16,9 @@ Install Python from here - https://www.python.org/downloads/
 
 *Additionally you can also install Pycharm from here - https://www.jetbrains.com/pycharm/download/
 
-Now Install Selenium Package by using - "pip install selenium" command.
-
 Now install Chrome Driver from here - https://chromedriver.chromium.org/
+
+Now Install Selenium Package by using - "pip install selenium" command.
 
 and add it to your path (see Documentation)
 
