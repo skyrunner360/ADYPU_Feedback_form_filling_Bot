@@ -9,7 +9,7 @@ __Open the secrets.py file to edit and enter your details there.__
 Prerequisites :-
 - Python
 - Selenium Package
-- Google Chrome Driver
+- Google Chrome Driver/Firefox Gecko Driver
 
 Instructions :-
 
