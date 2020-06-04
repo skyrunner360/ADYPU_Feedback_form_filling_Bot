@@ -2,7 +2,7 @@
 
 ## Bot to fill out ADYPU Feedback Forms (Google Forms)
 
-This bot is developed in Python using selenium.
+This bot is developed in Python using selenium package. More Development is needed to make it dynamic and provide a GUI.
 
 __Open the secrets.py file to edit and enter your details there.__
 
