@@ -7,9 +7,9 @@ This bot is developed in Python using selenium package. More Development is need
 __Open the secrets.py file to edit and enter your details there.__
 
 Prerequisites :-
-- Python
-- Selenium Package
-- Google Chrome Driver/Firefox Gecko Driver
+- Python (v3.8)
+- Selenium Package (v3.141.0)
+- Google Chrome Driver/Firefox Gecko Driver (v0.26.0)
 
 Instructions :-
 
