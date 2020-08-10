@@ -2,6 +2,7 @@
 
 ## Bot to fill out ADYPU Feedback Forms (Google Forms)
 
+![GitHub followers](https://img.shields.io/github/followers/skyrunner360?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/skyrunner360?style=social) 
 This bot is developed in Python using selenium package. More Development is needed to make it dynamic and provide a GUI.
 
 __Open the secrets.py file to edit and enter your details there.__
@@ -27,5 +28,6 @@ and add it to your path (see Documentation of chrome driver)
 
 - Now edit the secrets.py file accordingly and then run fbot.py file.
 
+![Ubuntu package](https://img.shields.io/ubuntu/v/sc) ![GitHub last commit](https://img.shields.io/github/last-commit/skyrunner360/ADYPU_Feedback_form_filling_Bot)
 
 
