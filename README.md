@@ -1,6 +1,6 @@
 # ADYPU_Feedback_form_filling_Bot
 
-## Bot to fill out ADYPU Feedback Forms (Google Forms)
+## A Bot to fill out ADYPU Feedback Forms (Google Forms)
 
 ![GitHub followers](https://img.shields.io/github/followers/skyrunner360?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/skyrunner360?style=social) 
 
